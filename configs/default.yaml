@@ -1,0 +1,16 @@
+group_count: 2
+propagation_layers: 3
+hidden_dim: 32
+interaction_dim: 16
+attention_heads: 4
+dam_blocks: 2
+decoder_hidden_dim: 128
+dropout: 0.2
+topk_similarity: 5
+learning_rate: 0.001
+weight_decay: 0.000001
+epochs: 200
+patience: 20
+eval_every: 1
+eval_batch_size: 8192
+seed: 42
