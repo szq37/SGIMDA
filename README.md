@@ -1,8 +1,6 @@
 # SGIMDA
 Robust miRNA–Disease Association Prediction via Source-Specific Mesoscale Topology Modeling
 
-This implementation supports fixed 5-fold cross-validation under three evaluation protocols: Random, Cold-disease, and Cold-miRNA.
-
 Requirements：
 Python 3.8.18
 PyTorch 2.0.0
